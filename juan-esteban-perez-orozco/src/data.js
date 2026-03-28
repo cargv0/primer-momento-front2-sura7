@@ -1,4 +1,4 @@
-const menu = [
+export let menu = [
     {
         id: 1,
         nombrePlato: "Tacos al Pastor",
@@ -32,5 +32,3 @@ const menu = [
         imagen: "https://upload.wikimedia.org/wikipedia/commons/d/d1/%28El_Flaco%29_Al_Pastor_Tacos.jpg"
     }
 ];
-
-export default menu;
