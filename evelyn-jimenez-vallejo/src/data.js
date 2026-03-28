@@ -31,4 +31,20 @@ export const destinosTuristicos = [
     precioCOP: 6750000,
     imagenDinamica: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Egypt.Giza.Sphinx.02.jpg"
   },
+    {
+    id: 5,
+    pais: "Australia",
+    ciudad: "Melbourne",
+    duracionDias: 10,
+    precioCOP: 7050000,
+    imagenDinamica: "https://www.unsaltoaaustralia.com/wp-content/uploads/2024/10/vivir-en-melbourne-002.jpg"
+  },
+    {
+    id: 6,
+    pais: "Perú",
+    ciudad: "Lima",
+    duracionDias: 10,
+    precioCOP: 6000000,
+    imagenDinamica: "https://dynamic-media.tacdn.com/media/photo-o/2f/ba/e1/6f/caption.jpg?w=2400&h=-1&s=1"
+    }
 ];
