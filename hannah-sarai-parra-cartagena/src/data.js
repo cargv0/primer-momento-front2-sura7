@@ -38,7 +38,7 @@ export let cursos = [
     precio: 90000,
     calificacion: 4.6,
     estudiantes: 210,
-    imagen: 'https://global.tiffin.edu/blog/importancia-de-la-administracion-de-los-servicios-de-salud',
+    imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3VB0zwS2iVpA1wZ9bG_KZ_SdZ6ne3Y1mdg&s',
     descripcion: 'Domina la facturación y cuentas médicas.',
   },
   {
@@ -52,7 +52,7 @@ export let cursos = [
     precio: 60000,
     calificacion: 4.5,
     estudiantes: 150,
-    imagen: 'https://www.ikusi.com/mx/blog/aprende-a-mejorar-la-atencion-al-cliente-con-estos-7-tips/',
+    imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb3VB0zwS2iVpA1wZ9bG_KZ_SdZ6ne3Y1mdg&s',
     descripcion: 'Mejora la atención al cliente en salud.',
   },
   
