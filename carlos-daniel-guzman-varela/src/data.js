@@ -36,8 +36,8 @@ export let cursos=[
         Rango: "principiantes",
         Costo: "60000",
         Puntuacion: "4.7 /5",
-        Estudiante: "",
-        InformacionDelCurso: "  ",
+        Estudiante: "400",
+        InformacionDelCurso: "Este curso cubre los fundamentos de HTML y CSS, ideal para principiantes.",
 
     },
 ];
