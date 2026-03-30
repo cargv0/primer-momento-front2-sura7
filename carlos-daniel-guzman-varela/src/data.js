@@ -1,0 +1,43 @@
+export let cursos=[
+    {
+        id: "1",
+        Titulo: "aprendizaje JAVA y JavaScript",
+        Docente: "Julian Andres",
+        Categoria: "programacion",
+        Intervalo: "8 meses",
+        Lecciones: "68",
+        Rango: "principiantes",
+        Costo: "85000",
+        Puntuacion: "4.5 /5",
+        Estudiante: "250",
+        InformacionDelCurso: "Este curso cubre los fundamentos de Java y JavaScript, ideales para principiantes.",
+    },  
+    { 
+        id: "2",
+        Titulo: "Programacion python",
+        Docente: "Carlos Andres",
+        Categoria: "programacion",
+        Intervalo: "6 meses",
+        Lecciones: "52",
+        Rango: "principiantes",
+        Costo: "75000",
+        Puntuacion: "4.9 /5",
+        Estudiante: "300",
+        InformacionDelCurso: "Este curso cubre los fundamentos de Python, ideal para principiantes.",
+
+    },
+    {
+         id: "3",
+        Titulo: "programacion HTML y CSS",
+        Docente: "Leidy Andra",
+        Categoria: "programacion",
+        Intervalo: "4 meses",
+        Lecciones: "40",
+        Rango: "principiantes",
+        Costo: "60000",
+        Puntuacion: "4.7 /5",
+        Estudiante: "",
+        InformacionDelCurso: "  ",
+
+    },
+];
